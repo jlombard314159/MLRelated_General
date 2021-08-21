@@ -1,0 +1,54 @@
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/420s.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/420s2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/bog.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/boulders2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/carter1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/carter2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/chaos.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/fishery.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/gandalf.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/htooth.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/lory.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/lory2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/merlin.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/millenium.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/mt evans.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/narrowsboulders.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/needlepeak1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/pearlnecklace.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/pfalls1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/pfalls2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/prione.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/randmo boulders.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf10.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf20.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf21.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf3 mastadon.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf4.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf5.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf6.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf7.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf8.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/rf9.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/splatte1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/splatte2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/splatte3.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/splatte4.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tahoe1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tahoe2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tahoe3.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tahoe4.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tahoe5.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/tunnels.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/upper poudre.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/upperpf.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo1.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo2.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo3.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo4.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo5_blair.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo6.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo7.PNG
+C:/Users/jlombardi/Documents/GitLabCode/nnplay/findRocks/data/allData/voo8.PNG

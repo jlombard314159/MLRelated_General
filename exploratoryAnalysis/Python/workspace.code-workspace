@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\jlombardi\\Documents\\GitLabCode\\sagecastr\\exploratoryAnalysis\\"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\jlombardi\\Anaconda3\\envs\\SageCastR\\python.exe",
+		"python.terminal.activateEnvironment": true,
+		"python.linting.pylintEnabled": true,
+		"python.condaPath": "C:\\Users\\jlombardi\\Anaconda3\\Scripts\\conda.exe",
+		"python.terminal.executeInFileDir": true		
+	}
+}

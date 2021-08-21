@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="z_ksp50_0_5 <= -1.48\ngini = 0.29\nsamples = 25\nvalue = [32, 7]\nclass = negative precip", fillcolor="#eb9d64"] ;
+1 [label="gini = 0.0\nsamples = 2\nvalue = [0, 4]\nclass = positive precip", fillcolor="#399de5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="z_sap50_5_15 <= 0.69\ngini = 0.16\nsamples = 23\nvalue = [32, 3]\nclass = negative precip", fillcolor="#e78d4c"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="gini = 0.0\nsamples = 17\nvalue = [27, 0]\nclass = negative precip", fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label="z_sap50_5_15 <= 0.82\ngini = 0.47\nsamples = 6\nvalue = [5, 3]\nclass = negative precip", fillcolor="#f5cdb0"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 2\nvalue = [0, 3]\nclass = positive precip", fillcolor="#399de5"] ;
+4 -> 5 ;
+6 [label="gini = 0.0\nsamples = 4\nvalue = [5, 0]\nclass = negative precip", fillcolor="#e58139"] ;
+4 -> 6 ;
+}
